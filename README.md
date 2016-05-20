@@ -13,12 +13,12 @@ To submit your own designs for consideration as the DC770 logo please either sub
 ## Contributors
 
 Huge thanks to the following people / organizations for assisting in the logo creation process:
-*DefCon.org  
-*theSheriff (aka the4ndy)  
-*#dc770  
-*sainate  
-*Google Fonts  
-*Piratica  
+* [DefCon.org](https://www.defcon.org)
+* theSheriff (aka the4ndy)  
+* [#dc770](https://dc770.org)
+* sainate  
+* [Google Fonts](https://google.com/fonts)
+* [Piratica](https://piratica.us)  
 
 ## License
 
