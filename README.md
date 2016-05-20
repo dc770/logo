@@ -1,2 +1,25 @@
-# DC770 Logo
-## Hoping to have a logo picked out for the inaugural meeting on 7 June.  If you've got some ideas, post them. If you like one of the ones that are already here, upload them!
+## Intro
+
+This repository was created to track the choosing and evolution of the DC770 logo (and possibly any future graphical / design work done). 
+
+## How to vote
+
+Leave comments in the "Issue" with the Poll label [here](https://github.com/dc770/logo/issues/1)
+
+## Submit your own
+
+To submit your own designs for consideration as the DC770 logo please either submit a Pull Request to this repo or contact poc@dc770.org for assistance.
+
+## Contributors
+
+Huge thanks to the following people / organizations for assisting in the logo creation process:
+DefCon.org
+theSheriff (aka the4ndy)
+#dc770
+sainate
+Google Fonts
+Piratica
+
+## License
+
+Once chosen the dc770 logo ideally will be released under a GPL, Apache, or other open source license. A discussion about which to choose is welcomed. 
