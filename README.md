@@ -19,6 +19,7 @@ Huge thanks to the following people / organizations for assisting in the logo cr
 * sainate  
 * [Google Fonts](https://google.com/fonts)
 * [Piratica](https://piratica.us)  
+* [k3ymkr](k3mkr@protonmail.ch)
 
 ## License
 
